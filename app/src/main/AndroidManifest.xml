@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ui.TweetsActivity" />
+        <activity android:name=".trafficActivity"></activity>
     </application>
 
 </manifest>
